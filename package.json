@@ -1,0 +1,9 @@
+{
+  "name": "utopic-pilot-sample",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Smallest project inside the Utopic workload contract: TypeScript on Node, no dependencies. Used for the pilot's first end-to-end build.",
+  "type": "module",
+  "engines": { "node": ">=22.18" },
+  "scripts": { "test": "node --test test/*.test.ts" }
+}
